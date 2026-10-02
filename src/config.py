@@ -14,4 +14,4 @@ EMBED_DIM = 512
 # FAISS
 FAISS_INDEX_TYPE = "IVF"
 NLIST = 100
-NPROBE = 10
+NPROBE = 10   # higher = better recall, slower search; tuned on 200-image catalog
