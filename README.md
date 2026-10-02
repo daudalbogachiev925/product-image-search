@@ -1,4 +1,4 @@
-# product-image-search
+
 # Product Image Search
 
 Vector search for products by image or by text. Built on CLIP + FAISS.
